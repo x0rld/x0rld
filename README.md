@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there :wave:
 
-<img align="left" alt="x0rld's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0rld&show_icons=true&hide_border=true" />
-<img align="right" alt="x0rld's Github Stats" src="https://github-readme-stats.vercel.app/api?username=x0rld&show_icons=true&hide_border=true" />
+<img align="left" alt="x0rld's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=x0rld&show_icons=true&hide_border=true" />
+
+<img align="right" alt="x0rld's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=x0rld&show_icons=true&hide_border=true" />
